@@ -1,7 +1,7 @@
 ```
-Developed by : HARI RAM R
-Register number : 212224240050
-Department: BTECH AIML
+Developed by : MUBARAK R
+Register number : 212224220066
+Department: BTECH IT
 ```
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
@@ -59,7 +59,7 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
-![438787821-3ff089dd-53ae-458b-b727-a345ada9fc40](https://github.com/user-attachments/assets/1ff08ffb-c079-4095-813f-c8b43d838a2d)
+![image](https://github.com/user-attachments/assets/895a1010-39ac-4288-96dd-9dc9cebd5739)
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
